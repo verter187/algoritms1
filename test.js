@@ -17,4 +17,4 @@ for (let key in obj) {
     val = obj[key];
   }
 }
-console.log(letter === "" ? "Значения отсутствуют" : `${letter}:${val}`);
+console.log(letter === "" ? "Значения отсутствуют" : `${letter}:${val}`); //
